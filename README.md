@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sejal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- <h3 align="center">I’m a Computer Science undergrad from India, driven by a passion for building meaningful solutions that tackle real-world problems. I’m currently strengthening my skills in software engineering, while also exploring how to integrate AI tools to enhance my projects and workflows.</h3> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
