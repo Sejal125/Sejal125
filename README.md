@@ -4,18 +4,15 @@
 
 ## About Me
 
-> 🟡  I’m a Computer Science undergrad from India, driven by a passion for building meaningful solutions that tackle real-world problems. I’m currently strengthening my skills in software engineering, while also exploring how to integrate AI tools to enhance my projects and workflow.
+> 🟡  I’m a Computer Science undergrad from India, driven by a passion for building meaningful solutions that tackle real-world problems.
 > >  
 > 🟣 **What I’m looking for:**  
-> - 💡 Opportunities to work on impactful projects  
-> - 🤝 Collaboration with other passionate developers  
+> - 💡 Opportunities to work on impactful projects   
 > - 🚀 Internships or open-source contributions to level up my skills  
 >
 > 🟣 **My skills & current focus:**  
-> - ✅ Building strong fundamentals of data structures and algorithms in Java  
 > - 🐍 Solid understanding of Python basics  
 > - 🗂️ Working knowledge of SQL and database design  
-> - 🛠️ Actively improving my software engineering practices with modern tools and technologies  
 >
 > 🌱 Always eager to learn, build, and contribute. Let’s connect if you want to collaborate or chat about tech!
 
